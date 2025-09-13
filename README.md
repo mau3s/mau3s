@@ -1,4 +1,9 @@
-# Hey there! 👋  I'm Mauro  
+<br>
+
+<div align="center">
+  
+  <b>`プログラマ`</b>
+  # Hey there! 👋  I'm Mauro  
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7AB0A&width=435&lines=Hi%2C+I'm+Mauro!;3D+Artist+%26+Game+Dev;Unreal+3DArtistic;Interactive+World+Creator)](https://git.io/typing-svg)
 
